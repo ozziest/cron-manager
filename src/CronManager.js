@@ -42,8 +42,8 @@ module.exports = function (tasks) {
         execTaskByType("hourly");
     };
     
-    new CronJob('* * * * * *', execSecondTasks, null, true);     // Her saniye
-    new CronJob('* * * * *', execMinuteTasks, null, true);       // Her dakika
-    new CronJob('0 * * * *', execMinuteTasks, null, true);       // Her saat başında
+    new CronJob('* * * * * *', execSecondTasks, null, true);     
+    new CronJob('* * * * *', execMinuteTasks, null, true);       
+    new CronJob('0 * * * *', execMinuteTasks, null, true);       
 
 };

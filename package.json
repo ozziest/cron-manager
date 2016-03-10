@@ -10,11 +10,13 @@
     "scripts": {
         "test": "mocha --timeout 70000"
     },
+    "keywords": ["cron", "manager", "cronjob"],
     "devDependencies": {
         "mocha": "~2.3.3",
         "chai": "~3.4.0"
     },
     "dependencies": {
         "cron": "^1.1.0"
-    }
+    },
+    "license": "MIT"
 }
