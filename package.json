@@ -1,0 +1,20 @@
+{
+    "name": "cron-manager",
+    "version": "0.1.0",
+    "description": "Cron Manager is a manager which you can define cron jobs easily without think about the cron regex.",
+    "main": "src/CronManager.js",
+    "author": {
+        "name": "Özgür Adem Işıklı",
+        "email": "i.ozguradem@gmail.com"
+    },
+    "scripts": {
+        "test": "mocha --timeout 70000"
+    },
+    "devDependencies": {
+        "mocha": "~2.3.3",
+        "chai": "~3.4.0"
+    },
+    "dependencies": {
+        "cron": "^1.1.0"
+    }
+}
