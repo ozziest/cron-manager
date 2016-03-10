@@ -1,6 +1,6 @@
 # Cron Manager
 
-Cron Manager is a manager which you can define cron jobs easily without think about the cron regex. This package is **under development**.
+Cron Manager is a manager which you can define cron jobs easily without think about the cron regex. 
 
 > I am not sure it is a requirement for your project. But I like this and maybe you like too. :)
 
