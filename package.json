@@ -1,6 +1,6 @@
 {
     "name": "cron-manager",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Cron Manager is a manager which you can define cron jobs easily without think about the cron regex.",
     "main": "src/CronManager.js",
     "author": {

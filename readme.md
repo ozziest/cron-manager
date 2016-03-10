@@ -36,5 +36,9 @@ new CronManager(tasks);
 
 ### Extras
 
-`daytime`: It means that the Cron Manager runs it beetween 9 AM and 11 PM.
-`midnight`: It means that the Cron Manager runs it beetween 0 AM and 8 AM.
+- `daytime`: It means that the Cron Manager runs it beetween 9 AM and 11 PM.
+- `midnight`: It means that the Cron Manager runs it beetween 0 AM and 8 AM.
+
+### License
+
+[MIT](https://opensource.org/licenses/MIT)
